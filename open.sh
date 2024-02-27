@@ -1,3 +1,4 @@
+sudo -i
 lscpu
 
 export DEBIAN_FRONTEND=noninteractive
